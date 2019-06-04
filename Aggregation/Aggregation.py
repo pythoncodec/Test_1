@@ -145,7 +145,7 @@ def site_item_stime_matches():
            and item1 == item2 \
            and stime1 == stime2
 
-
+#Two lists iterating
 if not list_1 == [] and not list_2 == []:
     i = 1
     values_matched = 0
